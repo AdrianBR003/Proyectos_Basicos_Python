@@ -13,7 +13,7 @@ def guess(x):
             print('El numero que buscas es mayor al que has introducido')
         elif guess > random_number: 
             print('El numero que buscas es menor al que has introducido')
-    print(f'Enhorabuena!, has encontrado el numero {random_number}')
+    print(f'Enhorabuena, has encontrado el numero {random_number}')
 
 
 guess(10)
